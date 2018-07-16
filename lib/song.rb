@@ -1,4 +1,4 @@
-class Post
+class SOng
   attr_accessor :title
 
 
